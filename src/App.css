@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.nav a{
+  text-decoration: none;
+  color: magenta;
+  border: 1px;
+}
+.nav{
+   display: flex;
+   background-color: turquoise;
+  border: 1px;
+  font-size: 15px;
+  border-radius: 25px; 
+  justify-content: space-evenly;
+}
